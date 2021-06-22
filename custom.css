@@ -1,0 +1,13 @@
+.jumbotron {
+    background-image: url("./big-pizza.png");
+    background-size: cover;
+}
+.jumbotron h1 {
+    position: relative;
+    width: 100%;
+    background: white;
+    opacity: .7;
+    text-align: center;
+}
+
+
